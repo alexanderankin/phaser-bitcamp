@@ -1,0 +1,23 @@
+{
+  "name": "Platformer.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alexanderankin/phaser-bitcamp",
+  "authors": [
+    "\"\""
+  ],
+  "description": "\"A Journey into game-dev in the HTML5 Canvas, and the possibilities of frontend js.\"",
+  "main": "index.html",
+  "keywords": [
+    "npm",
+    "nodejs",
+    "phaser",
+    "phaserjs",
+    "platformer",
+    "game",
+    "video"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "tracking.js": "~1.1.0"
+  }
+}
